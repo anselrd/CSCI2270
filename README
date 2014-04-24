@@ -1,0 +1,2 @@
+a doubly linked list of nodes that contain a double coefficient and an exponent >= 0. A polynomial cannot be empty, it must always have an x^0 term. includes
+calculus functions and a function to find the root using Newton's method. Maybe more calc funcitons to come.
